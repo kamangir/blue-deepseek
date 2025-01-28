@@ -4,7 +4,7 @@ ICON = "🐋"
 
 DESCRIPTION = f"{ICON} A command interface to DeepSeek."
 
-VERSION = "4.4.1"
+VERSION = "4.5.1"
 
 REPO_NAME = "blue-deepseek"
 
