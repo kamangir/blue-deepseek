@@ -28,6 +28,5 @@ help_functions = generic_help_functions(plugin_name=ALIAS)
 help_functions.update(
     {
         "browse": help_browse,
-        "node": help_node,
     }
 )
